@@ -1,5 +1,7 @@
-
-public class Rectangle {
+//63010124 Chakkapat Chuenthavorn
+package com.solid.lsp;
+//implements Shape for O - Openclosed
+public class Rectangle implements Shape {
     // DO NOT EDIT THE FILE FROM THIS LINE ONWARD!!
     private int width;
     private int height;
